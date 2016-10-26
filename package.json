@@ -9,6 +9,10 @@
   },
   "author": "Fernando Alves",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falvessc/grupohackathon.git"
+  },
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
