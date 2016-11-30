@@ -1,0 +1,34 @@
+{
+  "cleardb": [
+    {
+      "credentials": {
+        "jdbcUrl": "jdbc:mysql://us-cdbr-iron-east-04.cleardb.net/ad_77da0894d684a9d?user=bf7a479c9a0624&password=b00ad510",
+        "uri": "mysql://bf7a479c9a0624:b00ad510@us-cdbr-iron-east-04.cleardb.net:3306/ad_77da0894d684a9d?reconnect=true",
+        "name": "ad_77da0894d684a9d",
+        "hostname": "us-cdbr-iron-east-04.cleardb.net",
+        "port": "3306",
+        "username": "bf7a479c9a0624",
+        "password": "b00ad510"
+      },
+      "syslog_drain_url": null,
+      "label": "cleardb",
+      "provider": null,
+      "plan": "spark",
+      "name": "ClearDB MySQL Database-t4",
+      "tags": [
+        "DBA",
+        "(S) Cloud",
+        "(P) Analytics",
+        "Platform",
+        "Bluemix",
+        "ibm_dedicated_public",
+        "Infrastructure",
+        "Service",
+        "data_management",
+        "Analytics",
+        "IT Operations",
+        "ibm_third_party"
+      ]
+    }
+  ]
+}
